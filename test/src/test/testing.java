@@ -5,7 +5,7 @@ public int name2() {
 	int aa=2;
 	System.out.println(aa);
 //	수정한다.세번째
-  //ㄴ 탑승!	
+  //ㄴ 탑승!ddddd	
 	return aa;
 }
 }
